@@ -1,0 +1,4 @@
+Aqui hicimos un diagnostico en Node.js.
+primero comprobamos versiones de Node, npm y git
+Luego creamos un programa llamado diagnostico.js y verificamos version, plataforma, argument vector y el entorno.
+Repetimos el diagnostico con npm
