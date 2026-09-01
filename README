@@ -2,3 +2,17 @@ Aqui hicimos un diagnostico en Node.js.
 primero comprobamos versiones de Node, npm y git
 Luego creamos un programa llamado diagnostico.js y verificamos version, plataforma, argument vector y el entorno.
 Repetimos el diagnostico con npm
+
+
+31/8
+Información para la instalación del package json
+https://www.youtube.com/watch?v=rAQGFe7lCVs
+
+información de diferencias entre "npm install vs npm ci"
+https://www.baeldung.com/ops/npm-install-vs-npm-ci
+
+información del comando npm run dev
+https://keepcoding.io/blog/que-es-npm-run-dev-en-node-js/
+
+información y explicación de los distintos comandos de npm, incluyendo npm start
+https://kinsta.com/es/blog/que-es-npm/
